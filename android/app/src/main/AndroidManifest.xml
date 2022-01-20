@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.okorkut.barber.booking.flutter_barber_booking">
+    package="com.okorkut.flutter_barber_booking">
    <application
         android:label="flutter_barber_booking"
         android:name="${applicationName}"
